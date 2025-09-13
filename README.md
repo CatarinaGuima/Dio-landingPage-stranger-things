@@ -25,7 +25,12 @@ Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Inve
 ---
 
 ## 👀 Demonstração
+
 👉🏼 [Acesse aqui](https://catarinaguima.github.io/Dio-landingPage-stranger-things/)
+
+<img width="1893" height="902" alt="image" src="https://github.com/user-attachments/assets/474f896d-42ae-43bc-b066-7dd3ccfc085c" />
+
+
 
 
 
