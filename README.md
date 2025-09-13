@@ -21,14 +21,19 @@ Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Inve
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000)
 
 ---
 
+## 👀 Demonstração
+👉🏼 [Acesse aqui](https://catarinaguima.github.io/Dio-landingPage-stranger-things/)
+
+
+
+---
 ## 🔗 Links auxiliares
 
 - [W3C - World Wide Web Consortium](http://w3c.org)
 - [WAI - Web Acessibility Initiative](https://www.w3.org/WAI/)
 - [WCAG 2](https://www.w3.org/WAI/WCAG21/quickref/) 
 - [Figma](https://www.figma.com/file/I3Q42CcVUziRN3iMfTrbfb/Stranger-Things?node-id=0%3A1) 
-- [Demo](https://micheleambrosio.github.io/semana-frontend-mundo-invertido/) 
+
