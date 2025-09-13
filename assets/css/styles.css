@@ -241,6 +241,7 @@ section {
 }
 
 #section-inverted-world .section-texts p {
+    margin-right: 20px;
     text-align: justify;
     letter-spacing: 2.5px;
     text-indent: 2.5rem;
@@ -260,6 +261,7 @@ section {
 }
 
 #section-stranger-things-trailer .section-texts p {
+    margin-left: 60px;
     text-align: justify;
     letter-spacing: 2.5px;
     text-indent: 2.5rem;
@@ -330,6 +332,16 @@ section {
 #section-form h2 {
     width: 600px;
 }
+
+#section-form p {
+    text-align: justify;
+    text-indent: 2.5rem;
+    width: 75rem;
+    letter-spacing: 2.5px;
+    text-indent: 2.5rem;
+    margin-bottom: 2rem;
+}
+
 
 #section-form .form-content {
     display: flex;

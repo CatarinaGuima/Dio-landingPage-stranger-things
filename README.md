@@ -33,8 +33,6 @@ O projeto está disponível online e pode ser acessado diretamente pelo navegado
 
 
 
-
-
 ---
 ## 🔗 Links auxiliares
 
