@@ -24,7 +24,8 @@ Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Inve
 
 ---
 
-## 👀 Demonstração
+## 🌐 Deploy
+O projeto está disponível online e pode ser acessado diretamente pelo navegador:
 
 👉🏼 [Acesse aqui](https://catarinaguima.github.io/Dio-landingPage-stranger-things/)
 
